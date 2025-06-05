@@ -16,7 +16,7 @@ A comprehensive University Management System developed using Java (JDK 21) and N
 * **Programming Language**: Java (JDK 21)
 * **IDE**: NetBeans
 * **Database**: MySQL
-* **Build Tool**: Apache Ant([orcid.org][1], [ewadirect.com][2])
+* **Build Tool**: Apache Ant
 
 ## Installation
 
@@ -55,17 +55,17 @@ A comprehensive University Management System developed using Java (JDK 21) and N
 * **Admin Module**:
 
   * Login with admin credentials.
-  * Manage students, faculty, courses, and examinations.([thesai.org][3], [codeastro.com][4])
+  * Manage students, faculty, courses, and examinations.
 
 * **Faculty Module**:
 
   * Login with faculty credentials.
-  * View assigned courses and input student grades.([sideprojectors.com][5], [codeastro.com][4])
+  * View assigned courses and input student grades.
 
 * **Student Module**:
 
   * Login with student credentials.
-  * View enrolled courses, examination schedules, and grades.([github.com][6], [pmc.ncbi.nlm.nih.gov][7])
+  * View enrolled courses, examination schedules, and grades.
 
 ## Contributing
 
